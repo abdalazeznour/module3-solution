@@ -1,0 +1,114 @@
+body{
+  background-color: #EAEAEA;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+#food-llc{
+  color: #EAEAEA;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #00ADB5;
+  border-radius: 0;
+  border: 0;
+}
+li{
+  border: #EAEAEA solid 1px;
+}
+
+li:hover{
+  background-color: #EAEAEA;
+}
+.navbar-brand p {
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+.navbar-brand p span {
+  vertical-align: middle;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #FF2E63;
+  text-align: center;
+}
+#nav-list a:hover {
+  color: #00ADB5;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+img{
+  margin-right: 10px;
+  height: 35px;
+  width: 35px;
+}
+
+p{
+  padding: 10px;
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+}
+.boxes{
+  margin: 5%;
+  border: 1px solid black;
+  background-color: #00ADB5;
+  width: 100%px;
+  height: 100%px;
+  color: black;
+}
+.Paragraph{
+  font-size: 20px;
+  margin: 0px;
+  color:#EEEEEE;
+}
+#chicken{
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-weight: 400;
+  font-size: 115%;
+  padding: 1%;
+  background-color: #393E46;
+  color: #EEEEEE;
+
+}
+#beef{
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-weight: 400;
+  font-size: 115%;
+  padding: 1%;
+  background-color: #393E46;
+  color: #EEEEEE;
+}
+#sushi{
+  font-family: 'Roboto', sans-serif;
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-weight: 400;
+  font-size: 115%;
+  padding: 1%;
+  background-color: #393E46;
+  color: #EEEEEE;
+}
+.Paragraph{
+  margin: 0px;
+  color:#EEEEEE;
+}
+h1{
+  color: #393E46;
+  text-align: center;
+}
